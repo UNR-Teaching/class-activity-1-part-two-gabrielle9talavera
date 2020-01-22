@@ -1,3 +1,6 @@
+Gabrielle Talavera
+Kealia Perrine
+
 # Class Activity 1 part two
 
 Your first paired programming problem!
